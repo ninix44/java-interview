@@ -153,7 +153,7 @@ __public__ (публичный): класс/члены класса доступ
 + `short` — `(short)0`;
 + `int` — `0`;
 + `long` — `0L`;
-+ `floatg` — `0f`;
++ `float` — `0f`;
 + `double` — `0d`;
 + `char` — `\u0000`;
 + `boolean` — `false`;
